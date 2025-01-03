@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Kujira"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.42"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Bedrock Perfected",
+		"description": "Overhauling your Minecraft adventures!",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "d158f4e1-712d-4a04-9912-7138b9aa1255",
+		"version": [
+			0,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "a6553fc1-f8f2-4287-83f1-ed91baee2fab",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "4b619f80-c342-41f0-bf92-428e6a4ccb09",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

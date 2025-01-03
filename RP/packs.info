@@ -1,0 +1,127 @@
+Selected Packs:
+- Aesthetic:
+ - Cherry Picking
+ - Desaturated Dark Oak
+ - Red Iron Golem Flowers
+ - Rename 'Stem' to 'Log'
+ - Colorful Enchanting Table Particles
+ - HD Shield Banner Patterns
+ - Pink End Rods
+ - Flint Tipped Arrows
+ - Splash Bottle o' Enchanting
+ - Smoother Warped Planks
+ - Consistent Bamboo Planks
+ - Golden Crown
+- Aesthetic/ More Zombies:
+ - Steve Zombies
+ - Alex Zombies
+ - Ari Zombies
+ - Efe Zombies
+ - Kai Zombies
+ - Makena Zombies
+ - Zuri Zombies
+ - Noor Zombies
+ - Sunny Zombies
+- Terrain:
+ - Golden Savanna
+ - Darker Dark Oak leaves
+ - Clearer Water
+ - Brighter Nether
+ - Whiter Snow
+ - Shorter Tall Grass
+ - Shorter Short Grass
+ - Fancy Sunflowers
+- Terrain / Lower and Sides:
+ - Grass Sides
+ - Podzol Sides
+ - Mycelium Sides
+ - Snow Sides
+ - Grass Path Sides
+ - Crimson Nylium Sides
+ - Warped Nylium Sides
+- Variation:
+ - Variated Dirt
+ - Variated Grass
+ - Variated Cobblestone
+ - Variated Moss
+ - Variated Bricks
+ - Variated Birch Logs
+ - Variated Stone
+ - Variated Planks
+ - Variated Mycelium
+ - Variated Gravel
+ - Variated End Stone
+ - Variated Red Mushroom Blocks
+ - Variated Terracotta
+ - Variated Unpolished Stones
+ - Variated Bookshelves
+ - Variated Villagers
+- Unobtrusive:
+ - Unobtrusive Rain
+ - Unobtrusive Snow
+ - Borderless Glass
+ - Borderless Stained Glass
+ - Borderless Tinted Glass
+ - Lower Shield
+ - Lower Fire
+ - No Vignette
+- 3D:
+ - 3D Sun & Moon
+ - 3D Mace
+- GUI:
+ - Dark UI
+ - Numbered Hotbar
+ - Bedrock Edition Title
+ - Clearer Wither Hearts
+ - No How To Play
+ - Chat Tweaks
+ - Quick Crafting
+ - Trading Helper
+- World of Color:
+ - Unique Dyes
+- Fixes and Consistency:
+ - Piston Inner Fix
+ - Updated Observer Texture
+ - Redstone Wire Fix
+ - Consistent Blank Decorated Pot
+ - Consistent Buckets
+ - Consistent Tadpole Bucket
+ - Pixel Consistent Ghast
+ - Hanging Sign Logs
+ - Brighter Rib Armor Trim
+ - Cocoa Beans Fix
+ - Cactus Bottom Fix
+ - Pixel Consistent Elder Guardian
+ - Pixel Consistent Wither
+ - Pixel Consistent Experience Orbs
+ - Pixel Consistent Signs
+ - Pixel Consistent Beacon Beam
+ - Pixel Consistent Sonic Boom
+ - Blaze's Rods Fix
+ - Brewing Stand Icons Fix
+ - Pixel Consistent Guardian Beam
+ - Soul Soil Soul Campfire
+ - Hoe Fix
+ - Cloak Fix
+ - Smoker Bottom Fix
+- Utility:
+ - Fully Aged Crop Marker
+ - Music Disc Redstone Level Preview
+ - Hunger Preview
+ - Age 25 Kelp
+ - Different Stems
+ - Fully Aged Amethyst Cluster Marker
+ - Sticky Piston Sides
+ - Directional Hoppers
+ - Directional Observers
+ - Brewing Guide
+ - Compass Lodestone
+
+Combinations:
+ - extras/bamboo/consistent_variated_bamboo
+ - extras/dirt/golden_savanna_grass_sides
+ - extras/snow/whiter_snow_sides
+ - extras/gui/dark_brewing_stand_icons_fix
+ - extras/utility/updated_directional_observers_texture
+ - extras/unobtrusive/unobtrusive_rain_and_snow
+ - extras/pixel_consistent/pixel_consistent_warped_signs

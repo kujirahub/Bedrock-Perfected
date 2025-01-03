@@ -1,0 +1,46 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Bedrock Perfected",
+	"namespace": "bedrockPerfected",
+	"authors": [
+		"Kujira"
+	],
+	"targetVersion": "1.21.50",
+	"description": "Overhauling your Minecraft adventures!",
+	"experimentalGameplay": {
+		"creationOfCustomBiomes": true,
+		"upcomingCreatorFeatures": true,
+		"enableGameTestFramework": true,
+		"focusTargetCamera": false,
+		"dataDrivenJigsawStructures": true,
+		"aimAssist": false,
+		"educationEdition": false
+	},
+	"bdsProject": false,
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Bedrock Perfected"
+				}
+			]
+		]
+	}
+}
